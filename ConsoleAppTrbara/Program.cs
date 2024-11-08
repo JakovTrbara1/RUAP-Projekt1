@@ -10,7 +10,8 @@ namespace ConsoleAppTrbara
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Pozdrav iz aplikacije od 0165083614 ");
+
+            Console.WriteLine("Pozdrav iz aplikacije od Jakov Trbara");
         }
     }
 }
